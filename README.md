@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 😄Coding is fun 🙂
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ttest/)](https://www.instagram.com/hungry.uni/) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/tae.y.kim.56)](https://www.facebook.com/profile.php?id=namo4862) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimtaeyou0923@gmail.com)](mailto:namo4862@gmail.com)
+
 <!--
 **SeongYoonMin/SeongYoonMin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
