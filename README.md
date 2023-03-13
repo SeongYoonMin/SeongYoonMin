@@ -9,7 +9,7 @@
 - 🔭  프론트엔드 개발자를 꿈꾸며 현재 멋쟁이사자처럼 프론트엔드스쿨에서 공부하고있습니다🦁  
   
 
-- 🌱 주로 공부하고있는기술은 HTML5/CSS3/JavaScript/React/Flutter 입니다  
+- 🌱 주로 공부하고있는기술은 HTML5/CSS3/Javascript/Typescript/Vue/Nuxt.js/Nest.js 입니다  
   
 
 - ⚡ Velog에서 기술블로그도 운영하고있으니 하단에 참고해주시기 바랍니다!  
